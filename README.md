@@ -25,7 +25,7 @@ Além disso né necessária a criação do banco de dado conforme o [Arquivo de 
 Após isso, execute o git clone do repositório:
 
 ```bash
-git clone MateusRamos/Interacao-Humano-Computador
+git clone https://github.com/MateusRamos/Interacao-Humano-Computador.git
 ```
     
 E exeutar o arquivo *start_server.bat* ou rodar os comandos abaixo:
